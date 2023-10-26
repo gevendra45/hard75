@@ -1,0 +1,73 @@
+/* General styling */
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+
+/* Header styling */
+header {
+  text-align: center;
+  padding: 30px 0;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+th {
+  background-color: #eee;
+}
+
+/* Link styling */
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f00;
+  text-decoration: underline;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #fff;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+th {
+  background-color: #eee;
+}
+
+/* Add color to the even rows */
+tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f00;
+  text-decoration: underline;
+}
